@@ -1,0 +1,14 @@
+##Email 1 — Write an email from a student to their professor requesting an extension on an 
+assignment submission deadline.
+
+Subject: Request for Extension on Assignment Submission
+
+Dear Sir/Ma'am,
+
+I hope you are doing well. I am writing to request a short extension for the submission of the Digital literacy assignment, which is currently due on 31 March 2026. Due to some personal difficulties, I have not been able to complete the assignment on time. I am working on it and would be grateful if you could grant me an extension of two days. I will make sure to submit the completed assignment by 2 April 2026.
+I apologize for the inconvenience and appreciate your understanding.
+
+Sincerely,
+Navya Agrawal
+25BAI10204
+B.Tech CSE AI
