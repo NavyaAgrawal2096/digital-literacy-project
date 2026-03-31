@@ -1,9 +1,13 @@
 # Digital Literacy Project
 
 **Name:** Navya Agrawal
+
 **Registration Number:** 25BAI10204
+
 **Branch:** CSE (AI)
+
 **Year:** 1st Year B.Tech
+
 **Course Code:** CSE0001
 
 ---
