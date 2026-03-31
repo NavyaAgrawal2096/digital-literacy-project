@@ -1,0 +1,17 @@
+##Write an email from a student to an internship coordinator at a company, 
+expressing interest in a summer internship opportunity.
+
+
+Subject: Interest in Summer Internship Opportunity
+
+Dear Internship Coordinator,
+
+I hope you are doing well.My name is Navya Agrawal, and I am a first-year B.Tech student at VIT Bhopal University. I am writing to express my interest in any summer internship opportunities available at your company. I am interested in learning more about technology and developing practical skills through real-world experience. I am particularly eager to explore areas such as programming, digital tools, and teamwork.
+I would be grateful if you could let me know about any available opportunities or the application process.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Sincerely,
+Navya Agrawal
+navya.25bai10204.vitbhopal.ac.in
+B.Tech CSE AI
